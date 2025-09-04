@@ -23,7 +23,7 @@ It fetches real-time weather data from the **OpenWeather API** and displays temp
 ---
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./src/Components/Assets/screenshot.png)
 
 ---
 
